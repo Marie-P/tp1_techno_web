@@ -23,6 +23,8 @@ J'ai utilisé comme système de gestion de base de données mysql.
    * Serveur : 111.11.0.1:3306
    * Utilisateur : root
    * Mot de passe : my-secret-pw
+   * Créer une nouvelle base de données "tp1_pagination_MariePaule"
+   <img src="images/creation.png" />
    * Importer la base de données personnes.sql dans phpmyadmin.
 <img src="images/importer.png" />
 
