@@ -25,3 +25,8 @@ J'ai utilisé comme système de gestion de base de données mysql.
    * Mot de passe : my-secret-pw
    * Importer la base de données personnes.sql dans phpmyadmin.
 <img src="images/importer.png" />
+
+## Exemples
+<img src="images/capturesEcran/exemple1.png" />
+<img src="images/capturesEcran/exemple2.png" />
+<img src="images/capturesEcran/exemple3.png" />
